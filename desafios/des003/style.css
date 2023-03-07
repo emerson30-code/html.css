@@ -1,0 +1,15 @@
+@charset "UTF-8";
+
+body {
+    background-color: rgba(8, 8, 8, 0.925); 
+ }
+ 
+ h1 {
+     color: antiquewhite;
+     text-align: center;
+ }
+ 
+ p {
+     color: antiquewhite;
+     text-align: center;
+ }
